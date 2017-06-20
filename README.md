@@ -1,2 +1,2 @@
-# astroserver
-A customizable API server for exposing a system of astro* services
+# astro-go
+A drop-in server to replace net/http for astro services
